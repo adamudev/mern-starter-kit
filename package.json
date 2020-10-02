@@ -1,7 +1,7 @@
 {
   "name": "mern-starter-kit",
   "version": "1.0.0",
-  "description": "Minimalist MERN starter app, created with MongoDB, Express js, React js, Node js",
+  "description": "Minimalist MERN starter app, created for MongoDB, Express js, React js, Node js app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
